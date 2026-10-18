@@ -7,9 +7,6 @@ I'm a competitive programmer and an Android developer. I build Android apps in K
 ## What I've been working on
 
 - [VCast](https://github.com/TusharGBhut/VCast) is a browser extension and a small app on my PC that send the video I'm watching to a Samsung TV on the same Wi-Fi. It is written in JavaScript.
-- [Digital-Watermarking](https://github.com/TusharGBhut/Digital-Watermarking) turns a watermark image and a secret message into a QR code, then hides that code in a cover image with LSB, DCT and DWT. RSA and AES protect the message.
-- [FruitTraderAPI](https://github.com/TusharGBhut/FruitTraderAPI) is a Kotlin API for buying and selling fruit and working out profit on a FIFO basis.
-- [8-Puzzle-Solver](https://github.com/TusharGBhut/8-Puzzle-Solver) solves the 3x3 sliding puzzle with DFS, BFS, A* and hill climbing, written in Kotlin.
 
 My older Android apps are in my repositories too. Most of them came from courses, and a few from internships at Let's Grow More and the Sparks Foundation.
 
